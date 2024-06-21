@@ -22,7 +22,7 @@ Hi, this is machine learning part of ISHARA application made by Capstone Team C2
 # What We Do?
 We are developing a BISINDO Hand-Sign Classification Model which classifies 26 alphabets from A to Z.
 
-# What Packages that we use in Google Colab? ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1D7MrZ7nB1zrroLIH9AFzBTf-baZM1-it-Q&s)
+# What Packages that we use in Google Colab? 
 
 |   Packages |                                
 | :----------------: | 
@@ -74,3 +74,6 @@ The binary model will detect whether there is a hand or not, then if there is a 
 
 # Model Inference
 The binary model will detect whether there is a hand or not, then if there is a hand it goes to the multiclass model which contains 26 alphabets. [Notebook Link](https://github.com/ishara-bangkit-capstone-project/ishara-machine-learning/blob/main/fix/notebooks/model_inference.ipynb)
+
+## Built With
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1D7MrZ7nB1zrroLIH9AFzBTf-baZM1-it-Q&s)
