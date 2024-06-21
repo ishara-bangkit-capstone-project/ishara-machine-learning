@@ -22,7 +22,7 @@ Hi, this is machine learning part of ISHARA application made by Capstone Team C2
 # What We Do?
 We are developing a BISINDO Hand-Sign Classification Model which classifies 26 alphabets from A to Z.
 
-# What Packages that we use in Google Colab? ![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fpython4u%2Fgoogle-colab-%25E6%2595%2599%25E5%25AD%25B8-2-%25E5%25BB%25BA%25E7%25AB%258B%25E5%258F%258A%25E4%25BD%25BF%25E7%2594%25A8-colab-%25E7%25AD%2586%25E8%25A8%2598%25E6%259C%25AC%25E7%25B7%25A8%25E5%25AF%25AB-python-8b0d1a5b920d&psig=AOvVaw2kWGwaP7R-EnurcsqtGibK&ust=1719041004743000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjGiu6U7IYDFQAAAAAdAAAAABAY)
+# What Packages that we use in Google Colab? ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1D7MrZ7nB1zrroLIH9AFzBTf-baZM1-it-Q&s)
 
 |   Packages |                                
 | :----------------: | 
