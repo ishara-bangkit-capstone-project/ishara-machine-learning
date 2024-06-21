@@ -1,15 +1,15 @@
 # ISHARA - Machine Learning
 Hi, this is machine learning part of ISHARA application made by Capstone Team C241-PS358 ✨
 
-# Table of Contents
-- [Introduction](https://github.com/Obesifix-Bangkit-2023/Machine_Learning#machine-learning-team)
-- [ML Team](https://github.com/Obesifix-Bangkit-2023/Machine_Learning#machine-learning-team)
-- [What We Do?](https://github.com/Obesifix-Bangkit-2023/Machine_Learning#what-we-do)
-- [What We Use?](https://github.com/Obesifix-Bangkit-2023/Machine_Learning#What-Packages-that-we-use-in-Google-Colab/Jupyter-Notebook)
-- [Repositories](https://github.com/Obesifix-Bangkit-2023/Machine_Learning#repositories)
-- [Image Classification Model](https://github.com/Obesifix-Bangkit-2023/Machine_Learning#image-classification-model)
-- [Recommendation System](https://github.com/Obesifix-Bangkit-2023/Machine_Learning#recommendation-system)
-- [Machine Learning Model](https://github.com/Obesifix-Bangkit-2023/Machine_Learning#endpoint#machine-learning-model)
+# Repositories
+
+|   Learning Paths       |                                Link                                              |
+| :----------------:     | :----------------------------------------------------------------:               |
+|   Organization         |            [Github](https://github.com/ishara-bangkit-capstone-project)                    |
+|  Machine Learning      |            [Github](https://github.com/ishara-bangkit-capstone-project/ishara-machine-learning )   |
+|  Cloud Computing  |        [Github](https://github.com/ishara-bangkit-capstone-project/ishara-backend-api)        |
+| Mobile Development     |            [Github](https://github.com/ishara-bangkit-capstone-project/ishara-mobile-app) |
+
 
 # Machine Learning Team
 
@@ -33,15 +33,6 @@ We are developing a BISINDO Hand-Sign Classification model which contains 26 alp
 | Numpy |  
 | Matplotlib |  
 
-# Repositories
-
-|   Learning Paths       |                                Link                                              |
-| :----------------:     | :----------------------------------------------------------------:               |
-|   Organization         |            [Github](https://github.com/ishara-bangkit-capstone-project)                    |
-|  Machine Learning      |            [Github](https://github.com/ishara-bangkit-capstone-project/ishara-machine-learning )   |
-|  Cloud Computing  |        [Github](https://github.com/ishara-bangkit-capstone-project/ishara-backend-api)        |
-| Mobile Development     |            [Github](https://github.com/ishara-bangkit-capstone-project/ishara-mobile-app) |
-
 
 # Machine Learning Model
 First, we find dataset for both models. Then the data is being preprocessed, after that we built a sequential model using Tensorflow and Keras API. We use transfer learning MobileNetV2 for image classification.
@@ -56,8 +47,8 @@ The binary model will detect whether there is a hand or not, then if there is a 
 
 
 # Binary Model
-- [Notebook](https://drive.google.com/drive/folders/1-QVql2184LEP3PK6cxmAg2KpCFVmMzfH?usp=drive_link)
-- [Model](https://github.com/ishara-bangkit-capstone-project/ishara-machine-learning/tree/main/fix/models/binary_model)
+- [Binary Model Notebook](https://github.com/ishara-bangkit-capstone-project/ishara-machine-learning/blob/main/fix/notebooks/binary_model.ipynb)
+- [Binary Model](https://github.com/ishara-bangkit-capstone-project/ishara-machine-learning/tree/main/fix/models/binary_model)
 
 |   Model |
 | :----------------: |
@@ -69,8 +60,8 @@ The binary model will detect whether there is a hand or not, then if there is a 
 
 
 # Multiclass Model
-- [Notebook](https://drive.google.com/drive/folders/1-QVql2184LEP3PK6cxmAg2KpCFVmMzfH?usp=drive_link)
-- [Model](https://github.com/ishara-bangkit-capstone-project/ishara-machine-learning/tree/main/fix/models/multiclass_model)
+- [Multiclass Model Notebook](https://github.com/ishara-bangkit-capstone-project/ishara-machine-learning/blob/main/fix/notebooks/multiclass_model.ipynb)
+- [Multiclass Model](https://github.com/ishara-bangkit-capstone-project/ishara-machine-learning/tree/main/fix/models/multiclass_model)
 
 |   Model |
 | :----------------: |
@@ -82,4 +73,4 @@ The binary model will detect whether there is a hand or not, then if there is a 
 | Non-trainable params: 2,257984 |
 
 # Model Inference
-[Notebook Link](https://github.com/ishara-bangkit-capstone-project/ishara-machine-learning/blob/main/fix/notebooks/model_inference.ipynb)
+The binary model will detect whether there is a hand or not, then if there is a hand it goes to the multiclass model which contains 26 alphabets. [Notebook Link](https://github.com/ishara-bangkit-capstone-project/ishara-machine-learning/blob/main/fix/notebooks/model_inference.ipynb)
