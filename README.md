@@ -35,9 +35,9 @@ We are developing a BISINDO Hand-Sign Classification model which contains 26 alp
 
 
 # Machine Learning Model
-First, we find dataset for both models. Then the data is being preprocessed, after that we built a sequential model using Tensorflow and Keras API. We use transfer learning MobileNetV2 for image classification.
+First, we find dataset. Then the data is being preprocessed, after that we built a sequential model using Tensorflow and Keras API. We use transfer learning MobileNetV2 for image classification.
 
-Since the application is computer-vision based, it has some real-time detection issues where it will classify aplhabets even though there is no hand detected. We improve and resolve these issue by making 2 models, which is binary and multiclass. 
+Since the application is computer-vision based, it has some real-time detection issues where it will classify aplhabets even though there is no hand detected. We improve and solve these issue by making 2 models, which is binary and multiclass. 
 
 The binary model will detect whether there is a hand or not, then if there is a hand it goes to the multiclass model which contains 26 alphabets. 
 
